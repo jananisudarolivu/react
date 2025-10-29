@@ -68,3 +68,48 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+day-1
+1.BOM
+2.DOM
+3.react
+4.node
+5.library
+6.node.js installation
+7.create react app
+
+
+DAY-2
+1.file structure
+2.components
+ types of comp
+      1.class
+      2.fun comp
+3.fun comp
+jsx-js xml
+   html lick code
+
+jsx rules
+    return only one parent element
+     embaded js using {}
+     inline styling-double {}
+     className
+
+6.create a comp folder and file
+import it in app
+7.probs     
+
+
+DAY-3
+STATE -
+state is a spl memory inside the component hold data which can change over  time
+
+hook-spl function used to state management life cycle methods and side effect
+
+useState - usestate is a hook used to manage state.
+
+events:synthetic events:react wrap html events.
+
+   
