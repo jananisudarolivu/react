@@ -95,7 +95,8 @@ jsx rules
     return only one parent element
      embaded js using {}
      inline styling-double {}
-     className
+     className instend of class
+
 
 6.create a comp folder and file
 import it in app
@@ -113,3 +114,22 @@ useState - usestate is a hook used to manage state.
 events:synthetic events:react wrap html events.
 
    
+day-4
+1.destructoring
+
+day-5
+listing in react by using map and key
+ternary operator,boolean in state
+tasks
+1.counter =>rest()
+2.login button,and is show welcome ,else your not loggedin ternary operator
+3.hide and show button
+a.create a component with content that can be toggeled visible or hidden
+b.use a button to show or hide the content dynamically
+
+day-6
+1.weather app =>temp 30 hot else cold
+1.need input filed
+2.temp enter (0-55)
+3.temp bellow  above +img && operator
+
