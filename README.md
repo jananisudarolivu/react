@@ -89,7 +89,7 @@ DAY-2
       2.fun comp
 3.fun comp
 jsx-js xml
-   html lick code
+   html lick syntax
 
 jsx rules
     return only one parent element
@@ -113,7 +113,7 @@ useState - usestate is a hook used to manage state.
 
 events:synthetic events:react wrap html events.
 
-   
+ event handle-  
 day-4
 1.destructoring
 
@@ -133,3 +133,25 @@ day-6
 2.temp enter (0-55)
 3.temp bellow  above +img && operator
 
+day-7
+list and key
+class task 1.list some list of fruits
+2.list of vagitale and price
+list
+vegitables =[
+   {
+      name:"carrot",
+      color:"orange",
+      price:30
+   },
+   {
+      name:"potato",
+      color:"brown",
+      price:20
+   }
+]
+
+day-11
+form submit
+controlled comp:component it control by react state
+uncontrolled comp:component it control by dom itself
