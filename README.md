@@ -155,3 +155,34 @@ day-11
 form submit
 controlled comp:component it control by react state
 uncontrolled comp:component it control by dom itself
+
+task
+create a student register form 
+
+
+day 12
+11/11/2025
+useEffect;
+case 1 run after all renters
+useEffect()=>{
+   <!--side effect code-->
+}
+case  run after initial renters
+useEffect(()=>{
+   
+   <!--side effect code-->
+},[])
+dependancy -array -second argument in useEffect
+ 
+ case 3 run after state change renter
+ const [name,setName]=usestate("");
+ 
+useEffect(()=>{
+   <!--side effect code-->
+}[name])
+
+
+task
+console 1.you are login all
+alert:2.the page is loaded
+alert:3.you are logged in/you are not logged in[state]
