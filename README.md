@@ -169,6 +169,7 @@ useEffect()=>{
 }
 case  run after initial renters
 useEffect(()=>{
+
    
    <!--side effect code-->
 },[])
